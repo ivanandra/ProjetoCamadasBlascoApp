@@ -19,8 +19,7 @@ namespace Blasco.Infra.Data.Mappings
 
 
             Property(Produto => Produto.Imagem)
-                    .IsRequired()
-                    .HasMaxLength(100);
+                    .IsRequired();
 
             HasRequired(Produto => Produto.Fornecedor)
                     .WithMany(Fornecedor => Fornecedor.Produtos)

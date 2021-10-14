@@ -50,7 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\Context\BlascoContext.cs" />
+    <Compile Include="Data\Context\BlascoDbContext.cs" />
     <Compile Include="Data\Mappings\EnderecoMapping.cs" />
     <Compile Include="Data\Mappings\FornecedorMapping.cs" />
     <Compile Include="Data\Mappings\ProdutoMapping.cs" />

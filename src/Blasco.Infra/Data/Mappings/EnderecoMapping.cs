@@ -29,16 +29,15 @@ namespace Blasco.Infra.Data.Mappings
                     .HasMaxLength(150);
 
             Property(Endereco => Endereco.Bairro)
-                    .IsRequired()
-                    .HasMaxLength(100);
+                    .IsRequired();
+                 
 
             Property(Endereco => Endereco.Cidade)
                     .IsRequired()
                     .HasMaxLength(150);
 
             Property(Endereco => Endereco.Estado)
-                    .IsRequired()
-                    .HasMaxLength(100);
+                    .IsRequired();
 
 
             ToTable("Enderecos");
