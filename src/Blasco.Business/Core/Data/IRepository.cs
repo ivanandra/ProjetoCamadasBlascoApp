@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Blasco.Business.Core.Data
 {
-    interface IRepository<TEntity> : IDisposable where TEntity : Entity
+   public interface IRepository<TEntity> : IDisposable where TEntity : Entity
     {
         Task Adicionar(TEntity entity);
 
