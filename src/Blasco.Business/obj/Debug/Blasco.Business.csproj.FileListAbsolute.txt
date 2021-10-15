@@ -4,3 +4,6 @@ C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\ob
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\obj\Debug\Blasco.Business.csproj.CoreCompileInputs.cache
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\obj\Debug\Blasco.Business.dll
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\obj\Debug\Blasco.Business.pdb
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\bin\Debug\FluentValidation.dll
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\bin\Debug\FluentValidation.xml
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Business\obj\Debug\Blasco.Business.csproj.CopyComplete
