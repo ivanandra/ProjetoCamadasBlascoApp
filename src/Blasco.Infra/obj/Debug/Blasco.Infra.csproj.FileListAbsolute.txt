@@ -12,3 +12,5 @@ C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\obj\D
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\obj\Debug\Blasco.Infra.csproj.CopyComplete
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\obj\Debug\Blasco.Infra.dll
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\obj\Debug\Blasco.Infra.pdb
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\bin\Debug\FluentValidation.dll
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.Infra\bin\Debug\FluentValidation.xml

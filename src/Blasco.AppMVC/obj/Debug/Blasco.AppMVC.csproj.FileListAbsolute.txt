@@ -111,3 +111,5 @@ C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\obj\
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\obj\Debug\Blasco.AppMVC.csproj.CopyComplete
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\obj\Debug\Blasco.AppMVC.dll
 C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\obj\Debug\Blasco.AppMVC.pdb
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\bin\FluentValidation.dll
+C:\Users\IvanAndrade\Source\Repos\ProjetoCamadasBlascoApp\src\Blasco.AppMVC\bin\FluentValidation.xml

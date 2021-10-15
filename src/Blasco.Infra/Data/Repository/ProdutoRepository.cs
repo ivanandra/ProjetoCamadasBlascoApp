@@ -3,6 +3,8 @@ using System;
 using System.Threading.Tasks;
 using Blasco.Infra.Repository;
 using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
 
 namespace Blasco.Infra.Data.Repository
 {
@@ -11,15 +13,15 @@ namespace Blasco.Infra.Data.Repository
         public async Task<Produto> ObterProdutoFornecedor(Guid id)
         {
             return await Db.Produtos.AsNoTracking()
-                .Include(f: Produto => f.Fornecedor)
-                .FirstOrDefaultAsync(Produto => Produto.Id = id);
+                .Include(Produto => Produto.Fornecedor)
+                .FirstOrDefaultAsync(Produto => Produto.Id == id);
                 
         }
 
         public async Task<IEnumerable<Produto>> ObterProdutosFornecedores()
         {
             return await Db.Produtos.AsNoTracking()
-                 .Include(f: Produto => f.Fornecedor)
+                 .Include(Produto => Produto.Fornecedor)
                  .OrderBy(Produto => Produto.Nome).ToListAsync();
         }
 
